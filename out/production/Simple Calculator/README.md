@@ -4,7 +4,7 @@ Demonstrating the Kotlin Language I built a Simple Calculator that can do simple
 
 I built this program to delve a little in the programming language of Kotlin and get experience in using it.
 
-[Software Demo Video](https://youtu.be/riTy9YE3Mvo)
+[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
