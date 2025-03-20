@@ -1,32 +1,22 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Demonstrating the Kotlin Language I built a Simple Calculator that can do simple calculations like addition, subtraction, multiplication, and division. 
 
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+I built this program to delve a little in the programming language of Kotlin and get experience in using it.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The Tools that I used to create this are VSCode and IntelliJ IDEA Community Edition
 
-{Describe the programming language that you used and any libraries.}
+The programming language that I used is Kotlin
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
+- [Kotlin Tutorial](https://www.programiz.com/kotlin-programming)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add more items to be able to calculate different scenarios
